@@ -4,3 +4,6 @@ Uses a class GUID to find all devices of that type connected to the PC, when the
 
 
 https://cloud.githubusercontent.com/assets/14356838/18960703/abdf70ee-8638-11e6-9102-a8381b2e0cf8.png
+
+
+<img src="https://cloud.githubusercontent.com/assets/14356838/18960703/abdf70ee-8638-11e6-9102-a8381b2e0cf8.png" >
