@@ -1,0 +1,12 @@
+﻿  ListDeviceswGUID.cpp
+ListDeviceswGUID.cpp(113): warning C4474: 'printf' : too many arguments passed for format string
+  ListDeviceswGUID.cpp(113): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+ListDeviceswGUID.cpp(116): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPTSTR'
+  ListDeviceswGUID.cpp(116): note: consider using '%ls' in the format string
+  ListDeviceswGUID.cpp(116): note: consider using '%lls' in the format string
+  ListDeviceswGUID.cpp(116): note: consider using '%Ls' in the format string
+  ListDeviceswGUID.cpp(116): note: consider using '%ws' in the format string
+ListDeviceswGUID.cpp(124): warning C4474: 'printf' : too many arguments passed for format string
+  ListDeviceswGUID.cpp(124): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+ListDeviceswGUID.cpp(238): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ListDeviceswGUID.vcxproj -> C:\Users\Co-op\Documents\Visual Studio 2015\Projects\ListDeviceswGUID\Debug\ListDeviceswGUID.exe
